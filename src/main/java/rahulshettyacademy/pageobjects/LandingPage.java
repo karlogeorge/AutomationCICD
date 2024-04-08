@@ -19,7 +19,7 @@ public class LandingPage extends AbstractComponent {
 	}
 //New comments added
 //	WebElement userEmail = driver.findElement(By.id("userEmail"));
-//	WebElement userPassword = driver.findElement(By.id("userPassword")); 
+//	WebElement userPassword = driver.findElement(By.id("userPassword"));   
 
 	// PageFactory design
 	@FindBy(id = "userEmail")
