@@ -17,7 +17,7 @@ public class LandingPage extends AbstractComponent {
 		this.driver = driver;
 		PageFactory.initElements(driver, this); // PageFactory design
 	}
-
+//New comments added
 //	WebElement userEmail = driver.findElement(By.id("userEmail"));
 //	WebElement userPassword = driver.findElement(By.id("userPassword"));
 

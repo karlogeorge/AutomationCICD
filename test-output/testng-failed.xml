@@ -8,8 +8,8 @@
     <classes>
       <class name="rahulshettyacademy.tests.ErrorValidationsTest">
         <methods>
-          <include name="LoginErrorValidation"/>
           <include name="tearDown"/>
+          <include name="ProductErrorValidation"/>
           <include name="launchApplication"/>
         </methods>
       </class> <!-- rahulshettyacademy.tests.ErrorValidationsTest -->
